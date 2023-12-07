@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\godoy\OneDrive\Área de Trabalho\ods 4 projeto\.metadata\.plugins\org.eclipse.jdt.core
+1183146938.index
+1865797976.index
+1519549194.index
